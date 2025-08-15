@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-15",
+  "projects": {
+    "woocommerce-country-discount": {
+      "totalLinesAdded": 42,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-08-15T14:28:15.226Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-country-discount",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json"
+      ],
+      "averageChangeSize": 42
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
