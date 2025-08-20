@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-20",
+  "projects": {
+    "enfold-child": {
+      "totalLinesAdded": 1491,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\functions.php": [
+          {
+            "timestamp": "2025-08-20T14:50:55.583Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 1491,
+            "linesRemoved": 0,
+            "projectName": "enfold-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\functions.php"
+      ],
+      "averageChangeSize": 1491
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
