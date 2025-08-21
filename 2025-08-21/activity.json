@@ -2,9 +2,9 @@
   "date": "2025-08-21",
   "projects": {
     "enfold-child": {
-      "totalLinesAdded": 1753,
-      "totalLinesRemoved": 147,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 1905,
+      "totalLinesRemoved": 150,
+      "totalActiveTime": 9,
       "files": {
         "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\functions.php": [
           {
@@ -127,6 +127,36 @@
             "fileType": ".php",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "enfold-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\ps-woocommerce-price-format\\ps-woocommerce-price-format.php": [
+          {
+            "timestamp": "2025-08-21T15:23:11.832Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\ps-woocommerce-price-format\\ps-woocommerce-price-format.php",
+            "fileType": ".php",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "enfold-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-21T15:23:12.871Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\ps-woocommerce-price-format\\ps-woocommerce-price-format.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "enfold-child",
             "content": {
               "added": [],
