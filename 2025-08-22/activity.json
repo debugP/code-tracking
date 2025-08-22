@@ -35,9 +35,9 @@
       "averageChangeSize": 149
     },
     "jmb-woocommerce-price-updater": {
-      "totalLinesAdded": 1199,
+      "totalLinesAdded": 1211,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-woocommerce-price-updater\\jmb-woocommerce-price-updater.php": [
           {
@@ -80,6 +80,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-22T15:57:20.726Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-woocommerce-price-updater\\jmb-woocommerce-price-updater.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "jmb-woocommerce-price-updater",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-22T15:57:33.302Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-woocommerce-price-updater\\jmb-woocommerce-price-updater.php",
+            "fileType": ".php",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "jmb-woocommerce-price-updater",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
