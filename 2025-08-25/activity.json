@@ -35,9 +35,9 @@
       "averageChangeSize": 912
     },
     "woocommerce-custom-product-bundles": {
-      "totalLinesAdded": 2005,
+      "totalLinesAdded": 3715,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalActiveTime": 4,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php": [
           {
@@ -81,6 +81,20 @@
             },
             "duration": 2,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T14:56:24.796Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php",
+            "fileType": ".php",
+            "linesAdded": 1667,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
           }
         ],
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\js\\thps-woo-custom-product-bundle.js": [
@@ -97,6 +111,36 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-08-25T14:56:50.233Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-25T14:57:16.139Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
