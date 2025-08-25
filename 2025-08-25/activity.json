@@ -35,7 +35,7 @@
       "averageChangeSize": 912
     },
     "woocommerce-custom-product-bundles": {
-      "totalLinesAdded": 1668,
+      "totalLinesAdded": 2005,
       "totalLinesRemoved": 1,
       "totalActiveTime": 2,
       "files": {
@@ -81,6 +81,22 @@
             },
             "duration": 2,
             "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\js\\thps-woo-custom-product-bundle.js": [
+          {
+            "timestamp": "2025-08-25T14:50:16.042Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\js\\thps-woo-custom-product-bundle.js",
+            "fileType": ".js",
+            "linesAdded": 337,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
