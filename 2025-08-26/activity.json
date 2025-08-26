@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-26",
+  "projects": {
+    "woocommerce-custom-product-bundles": {
+      "totalLinesAdded": 1667,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php": [
+          {
+            "timestamp": "2025-08-26T12:25:21.463Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php",
+            "fileType": ".php",
+            "linesAdded": 1667,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php"
+      ],
+      "averageChangeSize": 1667
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
