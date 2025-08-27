@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-27",
+  "projects": {
+    "woocommerce-custom-product-bundles": {
+      "totalLinesAdded": 913,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\js\\thps-woo-custom-product-bundle.js": [
+          {
+            "timestamp": "2025-08-27T12:59:28.092Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\js\\thps-woo-custom-product-bundle.js",
+            "fileType": ".js",
+            "linesAdded": 337,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\css\\thps-woo-custom-product-bundle.css": [
+          {
+            "timestamp": "2025-08-27T12:59:28.243Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\css\\thps-woo-custom-product-bundle.css",
+            "fileType": ".css",
+            "linesAdded": 576,
+            "linesRemoved": 0,
+            "projectName": "woocommerce-custom-product-bundles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0,
+        "css": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\js\\thps-woo-custom-product-bundle.js",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\assets\\css\\thps-woo-custom-product-bundle.css"
+      ],
+      "averageChangeSize": 456.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "css"
+  ]
+}
