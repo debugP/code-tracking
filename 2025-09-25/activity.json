@@ -159,6 +159,67 @@
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php"
       ],
       "averageChangeSize": 428
+    },
+    "jmb-limit-daily-sales": {
+      "totalLinesAdded": 922,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php": [
+          {
+            "timestamp": "2025-09-25T13:55:09.821Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php",
+            "fileType": ".php",
+            "linesAdded": 909,
+            "linesRemoved": 0,
+            "projectName": "jmb-limit-daily-sales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-25T13:55:16.445Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "jmb-limit-daily-sales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-25T13:55:20.594Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "jmb-limit-daily-sales",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php"
+      ],
+      "averageChangeSize": 307.3333333333333
     }
   },
   "totalActiveTime": 2,
