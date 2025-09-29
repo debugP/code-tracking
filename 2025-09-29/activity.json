@@ -66,8 +66,8 @@
     },
     "Untitled (Workspace)": {
       "totalLinesAdded": 2386,
-      "totalLinesRemoved": 149,
-      "totalActiveTime": 16,
+      "totalLinesRemoved": 151,
+      "totalActiveTime": 20,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\woocommerce-country-discount.php": [
           {
@@ -252,6 +252,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T15:53:21.332Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\assets\\js\\checkout-updateGMN-v80.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],
