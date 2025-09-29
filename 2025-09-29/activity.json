@@ -65,7 +65,7 @@
       "averageChangeSize": 56
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 579,
+      "totalLinesAdded": 589,
       "totalLinesRemoved": 140,
       "totalActiveTime": 3,
       "files": {
@@ -168,6 +168,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T15:33:05.167Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\assets\\js\\checkout-updateGMN-v80.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
