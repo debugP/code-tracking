@@ -3,8 +3,8 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 190,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-limit-daily-sales\\jmb-limit-daily-sales.php": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-08T09:19:00.308Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\woocommerce-country-discount.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
