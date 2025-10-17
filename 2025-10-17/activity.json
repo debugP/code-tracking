@@ -3,7 +3,7 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 1177,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 685,
       "totalActiveTime": 2,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions-optimized.php": [
@@ -35,6 +35,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php": [
+          {
+            "timestamp": "2025-10-17T09:44:55.972Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 685,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
