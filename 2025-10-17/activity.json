@@ -1,0 +1,64 @@
+{
+  "date": "2025-10-17",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 1177,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions-optimized.php": [
+          {
+            "timestamp": "2025-10-17T09:21:09.524Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions-optimized.php",
+            "fileType": ".php",
+            "linesAdded": 977,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\search-taxonomy-cached.php": [
+          {
+            "timestamp": "2025-10-17T09:22:45.193Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\search-taxonomy-cached.php",
+            "fileType": ".php",
+            "linesAdded": 200,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions-optimized.php",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\search-taxonomy-cached.php"
+      ],
+      "averageChangeSize": 588.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
