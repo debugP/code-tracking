@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-20",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 1207,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-oss\\jmb-oss.php": [
+          {
+            "timestamp": "2025-10-20T13:50:30.529Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-oss\\jmb-oss.php",
+            "fileType": ".php",
+            "linesAdded": 1207,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-oss\\jmb-oss.php"
+      ],
+      "averageChangeSize": 1207
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
