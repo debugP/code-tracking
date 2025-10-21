@@ -3,8 +3,8 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 3433,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 5,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 12,
       "files": {
         "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php": [
           {
@@ -93,6 +93,76 @@
           },
           {
             "timestamp": "2025-10-21T13:17:40.713Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:18:46.546Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:20:02.151Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:20:03.243Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:20:15.698Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:20:18.390Z",
             "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
             "fileType": ".php",
             "linesAdded": 0,
