@@ -1,0 +1,89 @@
+{
+  "date": "2025-10-21",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 1681,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php": [
+          {
+            "timestamp": "2025-10-21T13:03:26.975Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 1681,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:03:28.065Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:03:29.319Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-21T13:03:37.968Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 3
+      },
+      "changeFrequency": {
+        "15": 3
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php"
+      ],
+      "averageChangeSize": 421
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
