@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3483                                          |
+| **Lines Added** (➕)   | 3625                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 3480                |
+| **Net Change** (↕)    | 3622                |
 | **Active Time** (⌚)   | 13 minutes |
 
 
@@ -14,6 +14,7 @@
 - **functions.php** (+1402, -0)
 - **style.css** (+1937, -3)
 - **us-shipping-exception.php** (+144, -0)
+- **us-popup1.js** (+142, -0)
 
 ## Visualizations
 
@@ -24,6 +25,7 @@ pie showData
 title Lines changed by file type
 ".php" : 1546
 ".css" : 1940
+".js" : 142
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 1
 "14h" : 7
-"15h" : 3
+"15h" : 4
 ```
 
 
-> **Last Updated:** 10/23/2025, 3:13:14 PM
+> **Last Updated:** 10/23/2025, 3:38:14 PM
