@@ -2,9 +2,9 @@
   "date": "2025-10-23",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 3335,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 3338,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 6,
       "files": {
         "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\functions.php": [
           {
@@ -43,6 +43,62 @@
             "fileType": ".css",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-23T12:35:54.432Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\style.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-23T12:36:00.230Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-23T12:36:04.613Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-23T12:36:20.208Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo.it\\wp-content\\themes\\enfold-child\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Untitled (Workspace)",
             "content": {
               "added": [],
