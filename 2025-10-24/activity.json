@@ -3,7 +3,7 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 2616,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 10,
       "totalActiveTime": 0,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\us-shipping-exception.php": [
@@ -45,6 +45,20 @@
             "fileType": ".php",
             "linesAdded": 744,
             "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-24T13:12:16.751Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\easyfatt-xml-generator\\easyfatt-xml-generator.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "Untitled (Workspace)",
             "content": {
               "added": [],
