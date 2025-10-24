@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2992                                          |
+| **Lines Added** (➕)   | 3129                                          |
 | **Lines Removed** (➖) | 12                                        |
-| **Net Change** (↕)    | 2980                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 3117                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **easyfatt-xml-generator.php** (+769, -10)
 - **checkout-updateGMN-v80.js** (+216, -2)
 - **us-popup2.js** (+135, -0)
+- **us-popup3.js** (+137, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".php" : 2651
-".js" : 353
+".js" : 490
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 2
 "15h" : 3
-"16h" : 3
+"16h" : 4
 ```
 
 
-> **Last Updated:** 10/24/2025, 4:43:13 PM
+> **Last Updated:** 10/24/2025, 4:48:13 PM
