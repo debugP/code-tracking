@@ -1,0 +1,66 @@
+{
+  "date": "2025-10-28",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 303,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\us-shipping-exception.php": [
+          {
+            "timestamp": "2025-10-28T11:45:44.740Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\us-shipping-exception.php",
+            "fileType": ".php",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\assets\\js\\us-popup5.js": [
+          {
+            "timestamp": "2025-10-28T11:46:01.996Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\assets\\js\\us-popup5.js",
+            "fileType": ".js",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0,
+        "js": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\us-shipping-exception.php",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\assets\\js\\us-popup5.js"
+      ],
+      "averageChangeSize": 151.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "php"
+  ]
+}
