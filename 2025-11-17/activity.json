@@ -1,0 +1,75 @@
+{
+  "date": "2025-11-17",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 1207,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume.com\\wp-content\\plugins\\sender-net-automated-emails\\includes\\Sender_Carts.php": [
+          {
+            "timestamp": "2025-11-17T16:32:57.498Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume.com\\wp-content\\plugins\\sender-net-automated-emails\\includes\\Sender_Carts.php",
+            "fileType": ".php",
+            "linesAdded": 1206,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-17T16:33:04.402Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume.com\\wp-content\\plugins\\sender-net-automated-emails\\includes\\Sender_Carts.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-17T16:33:07.771Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume.com\\wp-content\\plugins\\sender-net-automated-emails\\includes\\Sender_Carts.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "17": 2
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume.com\\wp-content\\plugins\\sender-net-automated-emails\\includes\\Sender_Carts.php"
+      ],
+      "averageChangeSize": 402.6666666666667
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
