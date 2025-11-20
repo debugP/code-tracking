@@ -1,0 +1,66 @@
+{
+  "date": "2025-11-20",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 1485,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1761224287695\\workspace.json": [
+          {
+            "timestamp": "2025-11-20T14:07:18.560Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1761224287695\\workspace.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php": [
+          {
+            "timestamp": "2025-11-20T14:11:20.525Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 1471,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "php": 5
+      },
+      "changeFrequency": {
+        "15": 5
+      },
+      "topFiles": [
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1761224287695\\workspace.json",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php"
+      ],
+      "averageChangeSize": 742.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "php",
+    "json"
+  ]
+}
