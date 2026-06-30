@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3816                                          |
-| **Lines Removed** (➖) | 1200                                        |
-| **Net Change** (↕)    | 2616                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Lines Added** (➕)   | 3819                                          |
+| **Lines Removed** (➖) | 1305                                        |
+| **Net Change** (↕)    | 2514                |
+| **Active Time** (⌚)   | 68 minutes |
 
 
 ## Modified Files
 - **settings.json** (+4, -0)
-- **functions.php** (+2043, -1199)
+- **functions.php** (+2043, -1304)
 - **class-jmb-lvdp-template.php** (+40, -0)
 - **class-jmb-lvdp-shortcode-articoli-scelti.php** (+77, -0)
 - **articoli-scelti.php** (+65, -0)
 - **class-jmb-lvdp-module-schema.php** (+59, -0)
 - **class-jmb-lvdp-admin-post-author-filter.php** (+50, -0)
 - **class-jmb-lvdp-module-admin.php** (+86, -0)
-- **class-jmb-lvdp-module-woocommerce.php** (+94, -0)
+- **class-jmb-lvdp-module-woocommerce.php** (+97, -0)
 - **class-jmb-lvdp-wc-product-display.php** (+131, -0)
 - **class-jmb-lvdp-wc-shortcodes.php** (+100, -0)
 - **class-jmb-lvdp-wc-checkout.php** (+195, -1)
@@ -42,7 +42,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 4
-".php" : 5012
+".php" : 5120
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,7 +53,8 @@ title Coding activity by hour (count of changes)
 "15h" : 9
 "16h" : 14
 "17h" : 37
+"18h" : 5
 ```
 
 
-> **Last Updated:** 6/30/2026, 5:40:56 PM
+> **Last Updated:** 6/30/2026, 6:05:56 PM
