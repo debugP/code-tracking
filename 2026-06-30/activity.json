@@ -2,9 +2,9 @@
   "date": "2026-06-30",
   "projects": {
     "wp-content": {
-      "totalLinesAdded": 3660,
-      "totalLinesRemoved": 1199,
-      "totalActiveTime": 57,
+      "totalLinesAdded": 3666,
+      "totalLinesRemoved": 1200,
+      "totalActiveTime": 63,
       "files": {
         "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -502,6 +502,20 @@
             },
             "duration": 3,
             "language": "php"
+          },
+          {
+            "timestamp": "2026-06-30T15:23:55.008Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\shortcodes\\class-jmb-lvdp-shortcode-articoli-scelti.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\templates\\shortcodes\\articoli-scelti.php": [
@@ -510,6 +524,20 @@
             "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\templates\\shortcodes\\articoli-scelti.php",
             "fileType": ".php",
             "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-06-30T15:24:43.163Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\templates\\shortcodes\\articoli-scelti.php",
+            "fileType": ".php",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "wp-content",
             "content": {
@@ -665,6 +693,20 @@
             "fileType": ".php",
             "linesAdded": 195,
             "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-06-30T15:23:48.103Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-checkout.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "wp-content",
             "content": {
               "added": [],
