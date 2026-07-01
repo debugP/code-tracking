@@ -2,9 +2,9 @@
   "date": "2026-07-01",
   "projects": {
     "wp-content": {
-      "totalLinesAdded": 4199,
+      "totalLinesAdded": 4356,
       "totalLinesRemoved": 31,
-      "totalActiveTime": 17,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -358,6 +358,54 @@
             "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\data\\faq\\olfactory-jewels.php",
             "fileType": ".php",
             "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\data\\faq\\perfumes-of-the-soul.php": [
+          {
+            "timestamp": "2026-07-01T15:21:02.557Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\data\\faq\\perfumes-of-the-soul.php",
+            "fileType": ".php",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\data\\faq\\scents-of-the-soul.php": [
+          {
+            "timestamp": "2026-07-01T15:22:21.427Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\data\\faq\\scents-of-the-soul.php",
+            "fileType": ".php",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\faq\\class-jmb-lvdp-faq-product-categories.php": [
+          {
+            "timestamp": "2026-07-01T15:23:42.263Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\faq\\class-jmb-lvdp-faq-product-categories.php",
+            "fileType": ".php",
+            "linesAdded": 84,
             "linesRemoved": 0,
             "projectName": "wp-content",
             "content": {
