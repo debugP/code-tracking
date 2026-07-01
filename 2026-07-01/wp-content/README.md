@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3666                                          |
+| **Lines Added** (➕)   | 3726                                          |
 | **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 3636                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Net Change** (↕)    | 3696                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,8 @@
 - **jmb-lvdp-tools.php** (+42, -0)
 - **class-jmb-lvdp-shortcode-display-tags.php** (+192, -0)
 - **functions.php** (+419, -0)
-- **style.css** (+2924, -30)
+- **style.css** (+2929, -30)
+- **display-tags.php** (+55, -0)
 
 ## Visualizations
 
@@ -26,8 +27,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".php" : 737
-".css" : 2954
+".php" : 792
+".css" : 2959
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 1
-"15h" : 11
+"15h" : 13
 ```
 
 
-> **Last Updated:** 7/1/2026, 3:25:50 PM
+> **Last Updated:** 7/1/2026, 3:30:50 PM
