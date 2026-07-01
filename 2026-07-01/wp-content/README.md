@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4163                                          |
+| **Lines Added** (➕)   | 4199                                          |
 | **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 4132                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Net Change** (↕)    | 4168                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
-- **settings.json** (+5, -0)
+- **settings.json** (+6, -0)
 - **class-jmb-lvdp-shortcode-articoli-scelti.php** (+84, -0)
 - **jmb-lvdp-tools.php** (+48, -0)
 - **class-jmb-lvdp-shortcode-display-tags.php** (+200, -0)
@@ -23,6 +23,7 @@
 - **class-jmb-lvdp-shortcode-faq.php** (+86, -0)
 - **class-jmb-lvdp-plugin.php** (+157, -0)
 - **essential-writings.php** (+43, -1)
+- **olfactory-jewels.php** (+35, -0)
 
 ## Visualizations
 
@@ -31,8 +32,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 5
-".php" : 1230
+".json" : 6
+".php" : 1265
 ".css" : 2959
 ```
 
@@ -44,7 +45,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "15h" : 15
 "16h" : 6
+"17h" : 2
 ```
 
 
-> **Last Updated:** 7/1/2026, 4:55:50 PM
+> **Last Updated:** 7/1/2026, 5:15:50 PM
