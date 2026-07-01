@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-01",
+  "projects": {
+    "wp-content": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2026-07-01T12:51:58.361Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
