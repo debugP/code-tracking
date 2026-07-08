@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-08",
+  "projects": {
+    "wp-content": {
+      "totalLinesAdded": 272,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-product-display.php": [
+          {
+            "timestamp": "2026-07-08T12:36:37.671Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-product-display.php",
+            "fileType": ".php",
+            "linesAdded": 272,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-product-display.php"
+      ],
+      "averageChangeSize": 272
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
