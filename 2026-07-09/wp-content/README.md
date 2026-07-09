@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1524                                          |
-| **Lines Removed** (➖) | 155                                        |
-| **Net Change** (↕)    | 1369                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Removed** (➖) | 167                                        |
+| **Net Change** (↕)    | 1357                |
+| **Active Time** (⌚)   | 16 minutes |
 
 
 ## Modified Files
-- **us-shipping-exception.php** (+514, -96)
+- **us-shipping-exception.php** (+514, -108)
 - **woocommerce-country-discount.php** (+186, -0)
 - **functions.php** (+646, -59)
 - **us-popup6.js** (+178, -0)
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1501
+".php" : 1513
 ".js" : 178
 ```
 
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 9
-"12h" : 2
+"12h" : 3
 ```
 
 
-> **Last Updated:** 7/9/2026, 12:13:05 PM
+> **Last Updated:** 7/9/2026, 12:18:05 PM
