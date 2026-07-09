@@ -2,9 +2,9 @@
   "date": "2026-07-09",
   "projects": {
     "wp-content": {
-      "totalLinesAdded": 1818,
-      "totalLinesRemoved": 185,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 1832,
+      "totalLinesRemoved": 186,
+      "totalActiveTime": 21,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\us-shipping-exception\\us-shipping-exception.php": [
           {
@@ -306,6 +306,36 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2026-07-09T13:33:55.851Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-07-09T13:33:56.737Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
