@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-13",
+  "projects": {
+    "wp-content": {
+      "totalLinesAdded": 864,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\jmb-us-shipping-extra.php": [
+          {
+            "timestamp": "2026-07-13T09:18:36.722Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\jmb-us-shipping-extra.php",
+            "fileType": ".php",
+            "linesAdded": 864,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\jmb-us-shipping-extra.php"
+      ],
+      "averageChangeSize": 864
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
