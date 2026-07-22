@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-22",
+  "projects": {
+    "wp-content": {
+      "totalLinesAdded": 517,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup12.js": [
+          {
+            "timestamp": "2026-07-22T10:01:03.314Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup12.js",
+            "fileType": ".js",
+            "linesAdded": 514,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-07-22T10:01:05.344Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup12.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-07-22T10:01:20.372Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup12.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-07-22T10:01:20.931Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup12.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 3
+      },
+      "changeFrequency": {
+        "12": 3
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup12.js"
+      ],
+      "averageChangeSize": 131.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
