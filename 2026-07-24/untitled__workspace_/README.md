@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1992                                          |
+| **Lines Added** (➕)   | 4005                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 1991                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 4004                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
-- **jmb-us-shipping-extra.php** (+1493, -1)
+- **jmb-us-shipping-extra.php** (+2986, -1)
 - **jmb-us-popup16.js** (+499, -0)
+- **jmb-us-popup17.js** (+520, -0)
 
 ## Visualizations
 
@@ -21,8 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1494
-".js" : 499
+".php" : 2987
+".js" : 1019
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 1
-"16h" : 2
+"16h" : 5
 ```
 
 
-> **Last Updated:** 7/24/2026, 4:50:56 PM
+> **Last Updated:** 7/24/2026, 4:59:03 PM
