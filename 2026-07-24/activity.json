@@ -2,7 +2,7 @@
   "date": "2026-07-24",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 1493,
+      "totalLinesAdded": 1992,
       "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
@@ -34,6 +34,22 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup16.js": [
+          {
+            "timestamp": "2026-07-24T14:50:26.949Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\assets\\js\\jmb-us-popup16.js",
+            "fileType": ".js",
+            "linesAdded": 499,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
