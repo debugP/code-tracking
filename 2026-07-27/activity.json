@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-27",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1784716809644\\workspace.json": [
+          {
+            "timestamp": "2026-07-27T10:13:57.934Z",
+            "fileName": "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1784716809644\\workspace.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1784716809644\\workspace.json"
+      ],
+      "averageChangeSize": 14
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
