@@ -2,9 +2,9 @@
   "date": "2026-07-27",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 672,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 695,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\Workspaces\\1784716809644\\workspace.json": [
           {
@@ -217,6 +217,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-07-27T13:26:07.424Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\woocommerce-country-discount.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-07-27T13:26:11.670Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\woocommerce-country-discount.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-07-27T13:26:25.082Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-country-discount\\woocommerce-country-discount.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
