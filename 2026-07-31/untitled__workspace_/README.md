@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3527                                          |
-| **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 3514                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Lines Added** (➕)   | 4117                                          |
+| **Lines Removed** (➖) | 24                                        |
+| **Net Change** (↕)    | 4093                |
+| **Active Time** (⌚)   | 33 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **jmb-us-shipping-extra.php** (+2028, -13)
 - **jmb-us-popup.css** (+296, -0)
 - **jmb-us-popup21.js** (+574, -0)
+- **jmb-us-popup22.js** (+590, -11)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@ title Lines changed by file type
 ".json" : 14
 ".php" : 2656
 ".css" : 296
-".js" : 574
+".js" : 1175
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 6
 "15h" : 16
-"16h" : 3
+"16h" : 7
 ```
 
 
-> **Last Updated:** 7/31/2026, 4:02:48 PM
+> **Last Updated:** 7/31/2026, 4:07:48 PM
