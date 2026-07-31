@@ -2,9 +2,9 @@
   "date": "2026-07-31",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 4117,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 4197,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -297,6 +297,34 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-07-31T15:01:49.574Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\jmb-us-shipping-extra.php",
+            "fileType": ".php",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-07-31T15:01:59.553Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\jmb-us-shipping-extra.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 34,
             "projectName": "Untitled (Workspace)",
             "content": {
               "added": [],
