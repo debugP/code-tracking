@@ -3,7 +3,7 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 2349,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 7,
       "files": {
         "c:\\Users\\profumo.pro\\AppData\\Roaming\\Cursor\\User\\settings.json": [
@@ -79,6 +79,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-07-31T12:54:19.491Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-us-shipping-extra\\jmb-us-shipping-extra.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
