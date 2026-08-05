@@ -3,7 +3,7 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 3756,
-      "totalLinesRemoved": 8,
+      "totalLinesRemoved": 10,
       "totalActiveTime": 62,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php": [
@@ -307,6 +307,20 @@
             "fileType": ".php",
             "linesAdded": 6,
             "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-05T13:35:11.016Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Untitled (Workspace)",
             "content": {
               "added": [],
@@ -623,6 +637,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-05T13:35:10.890Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\woocommerce-custom-product-bundles\\woocommerce-custom-product-bundles.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
