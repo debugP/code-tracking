@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 295                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 295                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Removed** (➖) | 31                                        |
+| **Net Change** (↕)    | 264                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **jmb-force-geo-country.php** (+8, -0)
 - **class-jmb-lvdp-module-woocommerce.php** (+99, -0)
 - **jmb-lvdp-tools.php** (+59, -0)
-- **class-jmb-lvdp-wc-shipping-tax-inclusive.php** (+129, -0)
+- **class-jmb-lvdp-wc-shipping-tax-inclusive.php** (+129, -31)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 295
+".php" : 326
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 1
-"14h" : 4
+"14h" : 5
 ```
 
 
-> **Last Updated:** 9/15/2026, 2:39:25 PM
+> **Last Updated:** 9/15/2026, 2:44:25 PM
