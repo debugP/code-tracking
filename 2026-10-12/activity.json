@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-12",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 304,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-shop-categories.php": [
+          {
+            "timestamp": "2026-10-12T14:31:33.212Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-shop-categories.php",
+            "fileType": ".php",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\editorial\\class-jmb-lvdp-module-editorial.php": [
+          {
+            "timestamp": "2026-10-12T14:31:40.742Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\editorial\\class-jmb-lvdp-module-editorial.php",
+            "fileType": ".php",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\jmb-lvdp-tools.php": [
+          {
+            "timestamp": "2026-10-12T14:31:46.778Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\jmb-lvdp-tools.php",
+            "fileType": ".php",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\woocommerce\\class-jmb-lvdp-wc-shop-categories.php",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\modules\\editorial\\class-jmb-lvdp-module-editorial.php",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\plugins\\jmb-lvdp-tools\\jmb-lvdp-tools.php"
+      ],
+      "averageChangeSize": 101.33333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
