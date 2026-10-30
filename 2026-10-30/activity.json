@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-30",
+  "projects": {
+    "wp-content": {
+      "totalLinesAdded": 775,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\woo-variations-table-grid\\assets\\js\\add-to-cart.js": [
+          {
+            "timestamp": "2026-10-30T10:25:46.036Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\woo-variations-table-grid\\assets\\js\\add-to-cart.js",
+            "fileType": ".js",
+            "linesAdded": 775,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\plugins\\woo-variations-table-grid\\assets\\js\\add-to-cart.js"
+      ],
+      "averageChangeSize": 775
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
