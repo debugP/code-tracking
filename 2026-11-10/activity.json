@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-10",
+  "projects": {
+    "wp-content (Workspace)": {
+      "totalLinesAdded": 4050,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php": [
+          {
+            "timestamp": "2026-11-10T11:49:42.151Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 1040,
+            "linesRemoved": 0,
+            "projectName": "wp-content (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\style.css": [
+          {
+            "timestamp": "2026-11-10T11:51:50.240Z",
+            "fileName": "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\style.css",
+            "fileType": ".css",
+            "linesAdded": 3010,
+            "linesRemoved": 0,
+            "projectName": "wp-content (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0,
+        "css": 3
+      },
+      "changeFrequency": {
+        "12": 3
+      },
+      "topFiles": [
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php",
+        "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\style.css"
+      ],
+      "averageChangeSize": 2025
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "css",
+    "php"
+  ]
+}
