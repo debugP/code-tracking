@@ -165,9 +165,9 @@
       "averageChangeSize": 2025
     },
     "wp-content": {
-      "totalLinesAdded": 1098,
+      "totalLinesAdded": 3886,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "e:\\Siti\\Kinsta\\naturalnicheperfume premium\\wp-content\\themes\\enfold-child\\functions.php": [
           {
@@ -183,6 +183,38 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\functions.php": [
+          {
+            "timestamp": "2026-11-10T15:26:49.161Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\functions.php",
+            "fileType": ".php",
+            "linesAdded": 417,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\style.css": [
+          {
+            "timestamp": "2026-11-10T15:26:50.712Z",
+            "fileName": "e:\\Siti\\Kinsta\\profumo-staging\\wp-content\\themes\\enfold-child\\style.css",
+            "fileType": ".css",
+            "linesAdded": 2371,
+            "linesRemoved": 0,
+            "projectName": "wp-content",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
